@@ -1,1 +1,1 @@
-# Portfolio of my Data Sceince work.
+# Portfolio of my Data Science work.
